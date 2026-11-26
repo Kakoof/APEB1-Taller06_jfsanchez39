@@ -21,11 +21,16 @@ public class Ejercicio03_Serie_numerica2 {
             val1 = val1 + 5;
             val2 = val2 + 2;
             System.out.println(+val1 + "/" +val2);    
-        }
+        }        
     }    
 }
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+10/12
+15/14
+20/16
+25/18
+30/20
+BUILD SUCCESSFUL (total time: 0 seconds)
  */
