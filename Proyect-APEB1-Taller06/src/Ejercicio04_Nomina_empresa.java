@@ -20,15 +20,8 @@ Nombre 5	12                          $2          $24"
 public class Ejercicio04_Nomina_empresa {
     public static void main(String [] args) {
         Scanner tcl = new Scanner(System.in);
-        int dias, costodia, cantidad;
-        String nombre;nombre = tcl.nextLine();
-        for (int i = 1; i < 5; i++) {
-            System.out.println("Ingrese el nombre: ");
-            System.out.println("Ingrese \n");
-            
-        }
-    }
-    
+        
+    }    
 }
 
 /***
